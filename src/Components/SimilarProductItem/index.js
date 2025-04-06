@@ -32,6 +32,7 @@ const SimilarProductItem = props => {
         <p className="salary">{item.packagePerAnnum}</p>
       </div>
       <hr className="line1" />
+      <p>p</p>
       <div>
         <h1 className="job-description">Description</h1>
         <p className="job-description-text">{item.jobDescription}</p>
